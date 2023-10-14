@@ -5,7 +5,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css"> <!-- 스타일을 담당하는 CSS 파일 연결 -->
+    <link rel="stylesheet" href="./css/styles.css"> <!-- 스타일을 담당하는 CSS 파일 연결 -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="./script.js"></script> <!-- JavaScript 파일 연결 -->
     <title>숙박업소 예약 플랫폼</title>
 </head>
 <body>
